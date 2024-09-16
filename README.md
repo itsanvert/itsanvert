@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @itsanvert (Vert San)
+### 👋 Hi, I’m @itsanvert (Jonh Harvard)
 - 👀 I’m interested in software development, particularly frontend development and web technologies.
 - 🌱 I’m currently learning more about finance, along with enhancing my skills in TypeScript, React, Next.js, and C#.
 - 💞️ I’m looking to collaborate on web development projects and open-source contributions.
