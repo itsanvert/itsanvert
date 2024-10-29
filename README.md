@@ -1,7 +1,7 @@
 # 👋 Welcome to my GitHub!
 
 ## 💡 About Me
-Hi, I’m **Vert San** (aka Sokheng Chen) — a third-year student and a passionate developer focused on frontend magic and creative coding. My journey spans **TypeScript**, **React**, **Next.js**, and beyond. Here, I document my learning, growth, and projects.
+Hi, I’m **Vert San** — a third-year student and a passionate developer focused on frontend magic and creative coding. My journey spans **TypeScript**, **React**, **Next.js**, and beyond. Here, I document my learning, growth, and projects.
 
 ![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
