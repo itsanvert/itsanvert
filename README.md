@@ -1,89 +1,172 @@
-# 👨‍💻 Vert San | Creative Developer ✨
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&height=100&lines=VERT+SAN;CREATIVE+DEVELOPER;3D+ENTHUSIAST" alt="Typing SVG" />
+</h1>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&random=false&width=600&height=100&lines=Frontend+Developer;UI%2FUX+Enthusiast;Creative+Coder;Problem+Solver" alt="Typing SVG" />
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" height="30px">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="280px" alt="3D Animation" />
 </div>
 
-## 💫 About Me
+<p align="center">
+  <a href="https://linkedin.com/in/itsanvert"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/itsanvert"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://codepen.io/itsanvert"><img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white" /></a>
+</p>
 
-> Third-year student turning caffeine into code. Passionate about creating beautiful, interactive web experiences that live at the intersection of design and technology.
+<!-- 3D-style divider -->
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="100%" height="2px"/>
+
+## 🌟 Welcome to My Digital Universe
 
 ```javascript
-const vertSan = {
-  skills: ['React', 'TypeScript', 'Next.js', 'TailwindCSS'],
-  currentlyLearning: ['Three.js', 'WebGL', 'Framer Motion'],
-  challenge: "Building something creative every week",
-  funFact: "I debug with console logs and prayers"
+// Initialize developer profile
+const renderVertSan = () => {
+  return {
+    name: 'Vert San',
+    title: 'Creative Frontend Developer',
+    education: '3rd Year Computer Science Student',
+    location: 'Digital Nomad',
+    interests: ['3D Web Experiences', 'Interactive UIs', 'Animation', 'WebGL'],
+    skills: {
+      languages: ['JavaScript', 'TypeScript', 'HTML5', 'CSS3'],
+      frameworks: ['React', 'Next.js', 'Three.js', 'GSAP'],
+      styling: ['TailwindCSS', 'Styled Components', 'CSS Modules'],
+      tools: ['Blender', 'Figma', 'Git', 'VS Code'],
+    },
+    currentFocus: 'Building immersive 3D web experiences',
+    funFact: 'I create digital art in my spare time',
+  };
 };
+
+// Render profile
+document.onload = renderVertSan();
 ```
 
-## 🛠️ Tech Stack
+<!-- 3D skill visualization -->
+<h2 align="center">⚡ Tech Mastery ⚡</h2>
 
 <div align="center">
-  
-  ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-  ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-  ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-  
+  <table>
+    <tr>
+      <td width="50%">
+        <h3 align="center">Frontend Wizardry</h3>
+        <p align="center">
+          <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="50" alt="React"/>
+          </a>
+          <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/PkAjhMmxjz7Wbm5NQa/giphy.gif" width="50" alt="TypeScript"/>
+          </a>
+          <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdDh2MmxtdTh0bnZmajFvZjlhbGd0ZWp4ZmlsbmJsMTVnbHl6MHN1WSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kg5kaQZ7JoZM5Yjh0a/giphy.gif" width="50" alt="Next.js"/>
+          </a>
+        </p>
+        <p align="center">
+          <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGlqZjJhMjdkbDJlOTJtYzAzaWFvaGl1ZnFrZWtqZGRzMzFnY2x6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/iJDLBX5GY8niSdoZPR/giphy.gif" width="50" alt="TailwindCSS"/>
+          </a>
+          <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmNrZ3VnZG45ZjM3ZGExeXVrc3B3YmN1bGdqb3B6eWFwcjNpamZrZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/SvFocn0wNMx0iv2rYz/giphy.gif" width="50" alt="Three.js"/>
+          </a>
+          <a href="https://greensock.com/gsap/" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGozZTBzM2QyZ2JqOTgxb3BramJpMHVlcjdrdmRzaDhqaWdzY3RoZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/Y0UEUYgJeYKsM7NVAi/giphy.gif" width="50" alt="GSAP"/>
+          </a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Creative Tools</h3>
+        <p align="center">
+          <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmhicjNnM2FqeWRsM2d3aXJtOHgyNDJkcWJ2NWVqaWZrMmFmYjA1eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/k0bMmNcImZVBwLlKKv/giphy.gif" width="50" alt="Blender"/>
+          </a>
+          <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGI5NzlhZzFoY3h5bjhoeDdqd3ByaXA0M2MxOTgzejc4MTI3M2s3ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jTfkLvT1is2z44ks3M/giphy.gif" width="50" alt="Figma"/>
+          </a>
+          <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+            <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVyeHYzNmkxNGdpc2FyYmdoMjVxZWE3Yzl6cDR1ZXB0MGl3bHdkZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/v112PR5cIiG44TXuKo/giphy.gif" width="50" alt="Photoshop"/>
+          </a>
+        </p>
+      </td>
+    </tr>
+  </table>
 </div>
 
-## 🚀 Featured Projects
+<!-- 3D Projects -->
+<h2 align="center">🔥 Featured 3D Projects 🔥</h2>
 
 <div align="center">
   <a href="https://github.com/itsanvert/modern-portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsanvert&repo=modern-portfolio&theme=react&hide_border=true&show_icons=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=itsanvert&repo=modern-portfolio&theme=react&hide_border=true&title_color=00FFFF&icon_color=00FFFF&bg_color=0D1117" />
   </a>
   <a href="https://github.com/itsanvert/crypto-vue">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsanvert&repo=crypto-vue&theme=react&hide_border=true&show_icons=true" />
+    <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=itsanvert&repo=crypto-vue&theme=react&hide_border=true&title_color=00FFFF&icon_color=00FFFF&bg_color=0D1117" />
   </a>
 </div>
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-  <div align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsanvert&show_icons=true&theme=react&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanvert&layout=compact&theme=react&hide_border=true" />
-    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=itsanvert&theme=react&hide_border=true" />
-  </div>
-</details>
-
-## 📚 Latest Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [Building Immersive UIs with Framer Motion](https://dev.to/)
-- [TypeScript Tips for React Developers](https://dev.to/)
-- [Making the Most of Next.js 13 Features](https://dev.to/)
-<!-- BLOG-POST-LIST:END -->
-
-## 🔗 Connect With Me
+<!-- Interactive 3D Experience -->
+<h2 align="center">🌐 3D Interactive Experience</h2>
 
 <div align="center">
-  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/itsanvert)
-  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/itsanvert)
-  [![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/itsanvert)
-  [![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/itsanvert)
-  
+  <p>Check out my latest Three.js experiments on <a href="https://codepen.io/itsanvert">CodePen</a>!</p>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWQwd2k3NXF4ZHJ2c3g5OWUyZGFrNjA2OWZhaWQyODNmbXY5aDZpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrtwMfDdGt9ZhKAP1T/giphy.gif" width="400" alt="3D Animation" />
 </div>
 
----
+<!-- Visual Stats -->
+<h2 align="center">📊 3D Developer Stats</h2>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=itsanvert&color=61DAFB&style=flat-square&label=Profile+Views" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=itsanvert&theme=react&hide_border=true&background=0D1117&stroke=00FFFF&ring=00FFFF&fire=00FFFF&currStreakNum=00FFFF&sideNums=00FFFF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=00FFFF" />
 </div>
 
 <div align="center">
-  
-  ### 🎮 When I'm not coding, I'm probably:
-  
-  🎧 Listening to lofi beats | 📚 Learning new tech | 🏃‍♂️ Jogging outdoors | 🎮 Gaming
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanvert&layout=compact&theme=react&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" />
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+<!-- 3D Contributions -->
+<h2 align="center">🏆 3D Contributions</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=itsanvert&theme=darkhub&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+<!-- Space for your 3D Contributions chart -->
+<div align="center">
+  <img alt="Vert San's Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=itsanvert&bg_color=0D1117&color=00FFFF&line=00FFFF&point=FFFFFF&hide_border=true" />
+</div>
+
+<!-- 3D Blog Posts -->
+<h2 align="center">📚 Technical Writeups</h2>
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <a href="https://dev.to/">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ3bzZoMm9lMmRrOXQ1cHQxdHozYTN0ZTUzNDJxc3BsY3lrZjgzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YjQX7gFTNpNDl1AJqd/giphy.gif" width="30" alt="Article" />
+          Building Immersive 3D UIs with Three.js and React
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://dev.to/">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ3bzZoMm9lMmRrOXQ1cHQxdHozYTN0ZTUzNDJxc3BsY3lrZjgzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YjQX7gFTNpNDl1AJqd/giphy.gif" width="30" alt="Article" />
+          Creating Advanced Animations with GSAP and TypeScript
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://dev.to/">
+          <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTQ3bzZoMm9lMmRrOXQ1cHQxdHozYTN0ZTUzNDJxc3BsY3lrZjgzZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YjQX7gFTNpNDl1AJqd/giphy.gif" width="30" alt="Article" />
+          WebGL Shaders: A Beginner's Guide
+        </a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- 3D-style footer -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00FFFF&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=24&fontColor=FFFFFF&animation=fadeIn&fontAlignY=80" />
+
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzlmZTA2NjE4N2U4ZTI1Y2ZhZGJkZWEz
