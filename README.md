@@ -1,5 +1,11 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,16,19,20,21&height=300&section=header&text=VERT%20SAN&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Creative%20Frontend%20Developer%20%7C%203D%20Web%20Artist&descAlignY=60&descSize=22" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,16,19,30&height=300&section=header&text=VERT%20SAN&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Creative%20Frontend%20Developer%20%7C%203D%20Web%20Artist&descAlignY=60&descSize=22" width="100%"/>
+</div>
+
+<div align="center">
+  <a href="https://www.vertsan.com">
+    <img src="https://img.shields.io/badge/WWW.VERTSAN.COM-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&style=plastic" height="40"/>
+  </a>
 </div>
 
 <div align="center">
@@ -27,6 +33,13 @@
 </h1>
 
 <div align="center">
+  <a href="https://www.vertsan.com">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNW5rNmE4Z2txaHB1ZDRlOWJoMTh0cWlpYmE0dTNkNWE0ZG9qc3JxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vR16pONsV8cEkLK/giphy.gif" width="400" />
+    <h3>✨ Visit My Official Website ✨</h3>
+  </a>
+</div>
+
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2000&pause=500&color=6FADCF&center=true&vCenter=true&random=false&width=600&height=60&lines=Frontend+Developer+%E2%9C%A8;3D+Web+Experience+Creator+%F0%9F%8C%8C;UI%2FUX+Enthusiast+%F0%9F%8E%A8;CS+Student+%F0%9F%8E%93;Digital+Artist+%F0%9F%8E%AD" alt="Typing SVG" />
 </div>
 
@@ -37,7 +50,7 @@
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 </div>
 
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me
+## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> About Me <a href="https://www.vertsan.com/about"><img src="https://img.shields.io/badge/More_About_Me-4285F4?style=flat&logoColor=white" height="25"/></a>
 
 <div align="center">
   <img align="right" height="280" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTR3cmwwOGcwc2kxdWlpZ3A1bnpiN3V6YjAwaXprZWoxdnFlODUxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -45,6 +58,7 @@
 
 ```javascript
 const vertSan = {
+  website: "www.vertsan.com",
   education: "3rd year Computer Science student",
   focus: "Frontend Development & 3D Web Experiences",
   currentlyLearning: ["Three.js", "WebGL", "GLSL Shaders", "React Three Fiber"],
@@ -60,7 +74,16 @@ function createDigitalMagic() {
     code();
     create3DExperiences();
     pushBoundaries();
+    inspire();
   }
+  
+  // My creativity cycle
+  return {
+    design: "Pushing boundaries of digital aesthetics",
+    develop: "Transforming ideas into immersive experiences",
+    deploy: "Sharing magic at www.vertsan.com",
+    repeat: "Every single day!"
+  };
 }
 ```
 
@@ -180,8 +203,8 @@ function createDigitalMagic() {
             <a href="https://github.com/itsanvert/modern-portfolio">
               <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white&style=plastic" height="30"/>
             </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Live-00B0FF?style=for-the-badge&logo=internetexplorer&logoColor=white&style=plastic" height="30"/>
+            <a href="https://www.vertsan.com/portfolio">
+              <img src="https://img.shields.io/badge/Live_Demo-00B0FF?style=for-the-badge&logo=internetexplorer&logoColor=white&style=plastic" height="30"/>
             </a>
           </p>
           <p><strong>Next.js, Three.js, React Three Fiber, Framer Motion, TailwindCSS</strong> - An immersive 3D portfolio with interactive elements, physics-based animations, and world-class visual effects</p>
@@ -197,12 +220,18 @@ function createDigitalMagic() {
             <a href="https://github.com/itsanvert/crypto-vue">
               <img src="https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white&style=plastic" height="30"/>
             </a>
-            <a href="#">
-              <img src="https://img.shields.io/badge/Live-00B0FF?style=for-the-badge&logo=internetexplorer&logoColor=white&style=plastic" height="30"/>
+            <a href="https://www.vertsan.com/crypto">
+              <img src="https://img.shields.io/badge/Live_Demo-00B0FF?style=for-the-badge&logo=internetexplorer&logoColor=white&style=plastic" height="30"/>
             </a>
           </p>
           <p><strong>Vue.js, D3.js, GSAP, WebSockets</strong> - Real-time cryptocurrency monitoring dashboard with stunning animated 3D charts and data visualizations</p>
         </div>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <h3>More Projects on <a href="https://www.vertsan.com">www.vertsan.com</a></h3>
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGJ2eWcxdjFkMXRsamI5NmFnMzRiZGV2cnFtczlzMzJldjdhOTVzayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aCTfyhYawdOXcFW/giphy.gif" width="60%" />
       </td>
     </tr>
   </table>
@@ -216,11 +245,20 @@ function createDigitalMagic() {
 ## <img src="https://media.giphy.com/media/g0jZn5ILmP5dCQyAUS/giphy.gif" width="40"> 3D Web Experiments
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnl2dm95ODQzOW1wMGR3dXJqYXVhdDFxbjJ3b2E5cHkzYmMyemYwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVxJPOYzGkLrqYQU0j/giphy.gif" width="500" alt="3D Web Experiment" />
+  <div style="display: flex; justify-content: center; gap: 15px;">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzRlbzZnMHB4anA3OXM5OTh2ZzlkOWV6dmFhM3ZsdWg0MnB3cjZ5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YrZECW1GgBkqat6F0B/giphy.gif" width="45%" alt="3D Web Experiment 1" />
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnl2dm95ODQzOW1wMGR3dXJqYXVhdDFxbjJ3b2E5cHkzYmMyemYwciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hVxJPOYzGkLrqYQU0j/giphy.gif" width="45%" alt="3D Web Experiment 2" />
+  </div>
   <p>Creating mesmerizing digital experiences with Three.js, WebGL, and GLSL shaders</p>
-  <a href="https://codepen.io/itsanvert">
-    <img src="https://img.shields.io/badge/Check_My_CodePen-F5F5F5?style=for-the-badge&logo=codepen&logoColor=black&style=plastic" height="35"/>
-  </a>
+  <p>All experiments available on my <a href="https://www.vertsan.com">official website</a> and <a href="https://codepen.io/itsanvert">CodePen</a></p>
+  <div>
+    <a href="https://www.vertsan.com/experiments">
+      <img src="https://img.shields.io/badge/3D_Experiments-4A309D?style=for-the-badge&logo=webgl&logoColor=white&style=plastic" height="35"/>
+    </a>
+    <a href="https://codepen.io/itsanvert">
+      <img src="https://img.shields.io/badge/Check_My_CodePen-F5F5F5?style=for-the-badge&logo=codepen&logoColor=black&style=plastic" height="35"/>
+    </a>
+  </div>
 </div>
 
 <!-- Animated stats bar -->
@@ -228,7 +266,7 @@ function createDigitalMagic() {
   <img src="https://raw.githubusercontent.com/AnderMendoza/AnderMendoza/main/assets/line-neon.gif" width="100%">
 </div>
 
-## <img src="https://media.giphy.com/media/VdoIFLsMIlwzfKD520/giphy.gif" width="40"> GitHub Stats
+## <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaW1vMnJzcTR1czk3bGdhemR6OXQ5ZHRpems2YmphMmNnNXI0NTF6ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/VdoIFLsMIlwzfKD520/giphy.gif" width="40"> GitHub Stats <a href="https://www.vertsan.com/projects"><img src="https://img.shields.io/badge/All_Projects-9B59B6?style=flat&logoColor=white" height="25"/></a>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=itsanvert&show_icons=true&theme=radical&bg_color=0D1117&hide_border=true&text_color=ffffff&title_color=9B59B6&icon_color=6FADCF" alt="GitHub Stats" width="49%" />
@@ -295,8 +333,20 @@ function createDigitalMagic() {
 <div align="center">
   <p>I'm always open to collaborating on projects and innovative ideas that push the boundaries of web experiences!</p>
   
-  <a href="mailto:contact@itsanvert.dev">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" height="35"/>
+  <div>
+    <a href="https://www.vertsan.com/contact">
+      <img src="https://img.shields.io/badge/www.vertsan.com/contact-6FADCF?style=for-the-badge&logo=googleearth&logoColor=white&style=plastic" height="35"/>
+    </a>
+    <a href="mailto:contact@itsanvert.dev">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=plastic" height="35"/>
+    </a>
+  </div>
+  
+  <br/>
+  
+  <!-- Spotify Now Playing -->
+  <a href="https://www.vertsan.com/playlist">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=itsanvert&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=9b59b6&bar_color_cover=false" width="400"/>
   </a>
   
   <img src="https://komarev.com/ghpvc/?username=itsanvert&label=Profile%20Views&color=9b59b6&style=for-the-badge" alt="Profile Views" height="28"/>
@@ -307,5 +357,7 @@ function createDigitalMagic() {
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,16,19,20,21&height=170&section=footer&text=Creating%20Digital%20Worlds&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+  <a href="https://www.vertsan.com">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,16,19,30&height=170&section=footer&text=Visit%20www.vertsan.com&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=70" width="100%"/>
+  </a>
 </div>
